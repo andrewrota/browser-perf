@@ -22,6 +22,7 @@
     "jsmin": "~1.0.1",
     "q": "^1.4.1",
     "request": "^2.65.0",
+    "rum-speedindex": "git+https://github.com/WPO-Foundation/RUM-SpeedIndex.git#a6d4e1e1db56a10ab514493f70970e06f283da16",
     "wd": "^0.4.0"
   },
   "devDependencies": {
